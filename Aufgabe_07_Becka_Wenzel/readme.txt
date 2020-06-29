@@ -1,1 +1,0 @@
-put your HERE tokens and apid in the Aufgabe_05_Wenzel\public\oldwebsites\src\tokens_TEMPLATE
